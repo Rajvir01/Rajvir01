@@ -12,7 +12,6 @@ I have always been fascinated by coding. This fascination has led me to gain var
 - Javascript
 - Typescript
 - Python
-- C / C++ / C#
 
 ```/* Front End */```
 - Angular
