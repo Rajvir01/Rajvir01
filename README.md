@@ -15,10 +15,14 @@ I have always been fascinated by coding. This fascination has led me to gain var
 
 ```/* Front End */```
 - Angular
+- React
+- Next.js
 - HTML, CSS and JS
+- Tailwind
 - Bootstrap
 
 ```/* Backend */ ```
+- Node.js
 - Java and Spring Boot Framework
 - Flask
 
@@ -37,5 +41,6 @@ I have always been fascinated by coding. This fascination has led me to gain var
 ```/* Devops */ ```
 - Docker
 - Git
+- Github
 
 [![Rajvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajvir01)](https://github.com/anuraghazra/github-readme-stats)
